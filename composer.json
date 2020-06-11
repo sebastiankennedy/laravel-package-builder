@@ -1,0 +1,17 @@
+{
+    "name": "sebastian-kennedy\/laravel-package-builder",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SebastianKennedy",
+            "email": "sebastiankennedy@foxmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SebastianKennedy\\LaravelPackageBuilder\\": "src"
+        }
+    }
+}
